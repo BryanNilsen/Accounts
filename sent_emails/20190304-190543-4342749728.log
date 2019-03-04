@@ -1,0 +1,25 @@
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+Subject: Password reset on 127.0.0.1:8000
+From: webmaster@localhost
+To: bryannilsen@gmail.com
+Date: Mon, 04 Mar 2019 19:05:43 -0000
+Message-ID: <155172634334.58126.9114175458249757411@macs-MacBook-Pro.local>
+
+
+You're receiving this email because you requested a password reset for your user account at 127.0.0.1:8000.
+
+Please go to the following page and choose a new password:
+
+http://127.0.0.1:8000/accounts/reset/MQ/54c-f835da347d33755ba9c3/
+
+Your username, in case you've forgotten: bnilsen
+
+Thanks for using our site!
+
+The 127.0.0.1:8000 team
+
+
+
+-------------------------------------------------------------------------------
